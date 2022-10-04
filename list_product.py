@@ -1,3 +1,5 @@
+##This is the same as going to www.newegg.com, going to the searchbar, and searching something.
+
 import requests
 from bs4 import BeautifulSoup
 import re
